@@ -14,11 +14,11 @@ CSIRO provides the [DeepSeaGrass dataset](https://data.csiro.au/collection/csiro
 
 ### Installation
 To get started with this project, clone the repository and install the required dependencies:
-'''
+```
 git clone https://github.com/nabid69/Unsupervised-Curriculum-Learning---UCL.git
 cd Unsupervised-Curriculum-Learning---UCL
 pip install -r requirements.txt
-'''
+```
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your improvements or bug fixes.
