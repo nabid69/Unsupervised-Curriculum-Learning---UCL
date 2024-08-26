@@ -10,7 +10,7 @@ This project utilizes the publicly available DeepSeaGrass dataset to train and e
 * DeepSeaGrass Dataset: Uses a real-world dataset containing underwater images for seagrass detection.
 
 ### Dataset
-CSIRO provides the [DeepSeaGrass dataset](https://data.csiro.au/collection/csiro:47653v1?redirected=true) and contains a comprehensive set of underwater images specifically designed for sea grass detection. The dataset can be accessed and downloaded from [this link](https://data.csiro.au/collection/csiro:47653v1?redirected=true) .
+CSIRO provides the [DeepSeaGrass dataset](https://data.csiro.au/collection/csiro:47653v1?redirected=true) and contains a comprehensive set of underwater images specifically designed for seagrass classification. The dataset can be accessed and downloaded from [this link](https://data.csiro.au/collection/csiro:47653v1?redirected=true) .
 
 ### Installation
 To get started with this project, clone the repository and install the required dependencies:
